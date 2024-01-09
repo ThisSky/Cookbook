@@ -8,3 +8,5 @@ Rules for adding a recipe:
 - Ingredients shall provide serving size assuming 1 serving provides enough food for 1 adult male, (If main course enough to be a main course, if side enough to be a side.)
 - Recipe shall have all steps enumerated so a novice could make said recipe (Novices are to inform author if there is a lack of information)
 - Recipe shall include end product photo, step-by-step photos are requested if said step requires illustration
+
+Link to this cookbook: https://github.com/ThisSky/Cookbook/tree/master
